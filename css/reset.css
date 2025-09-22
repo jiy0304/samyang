@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* rem 기준크기 62.5% = 10px */
+/* 계산공식 50/10 = 5rem */
+html { font-size: 62.5%; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+ol,ul { list-style: none; }
+a { text-decoration: none; color: inherit; }
+img { vertical-align: middle; }
+address { font-style: normal; }
+table { border-collapse: collapse; width: 100%; }
+caption { display: none; }
+
+
